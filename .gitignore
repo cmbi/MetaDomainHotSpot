@@ -1,6 +1,9 @@
 # Results of this notebook
 results/
 
+# mac specific
+.DS_store
+
 ## R Specific temp files
 # History files
 .Rhistory
